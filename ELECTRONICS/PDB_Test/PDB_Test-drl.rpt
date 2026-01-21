@@ -1,0 +1,26 @@
+Drill report for PDB_Test.kicad_pcb
+Created on 26-03-2024 20:16:54
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'PDB_Test-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (10 holes)
+    T2  0.800mm  0.0315"  (14 holes)
+    T3  0.900mm  0.0354"  (10 holes)
+    T4  1.100mm  0.0433"  (3 holes)
+    T5  1.320mm  0.0520"  (10 holes)
+
+    Total plated holes count 47
+
+
+Drill file 'PDB_Test-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
